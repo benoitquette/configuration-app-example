@@ -1,6 +1,6 @@
 {
   "name": "configuration-app-example",
-  "vendor": "vtexspain",
+  "vendor": "t24",
   "version": "0.2.0",
   "title": "Configuration App Example",
   "description": "Reference app for VTEX IO Services",
@@ -10,7 +10,7 @@
   "builders": {
     "node": "6.x",
     "docs": "0.x",
-    "vtexspain.service-example": "0.x"
+    "t24.service-example": "0.x"
   },
   "scripts": {
     "prereleasy": "bash lint.sh"
